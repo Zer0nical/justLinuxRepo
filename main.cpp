@@ -3,7 +3,7 @@ using namespace std;
 int main(){
     int n;
     cin>>n;
-    while(n>=2){
+    while(n>=21){
         cout<<n%3<<" ";
         n--;
     }
