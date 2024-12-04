@@ -7,5 +7,6 @@ int main(){
         cout<<n%4<<" ";
         n--;
     }
+    cout<<endl;
     return 0;
 }
